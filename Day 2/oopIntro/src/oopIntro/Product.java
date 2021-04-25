@@ -1,3 +1,5 @@
+// github.com/hdayanir
+
 package oopIntro;
 
 public class Product {
