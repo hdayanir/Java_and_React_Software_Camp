@@ -3,8 +3,8 @@
 package oopIntro;
 
 public class Product {
-	public Product() { 	// bu bloga consructor denir. Kisacasi bu classi olusturdugumuzda 
-						//olmasini istedigimiz bir kod varsa o kod buraya yazilir.
+	public Product() { 	// bu bloga consructor denir. Kisacasi bunu olusturdugumuzda 
+				//olmasini istedigimiz bir kod varsa o kod buraya yazilir.
 		System.out.println("Ben calistim");
 	}
 	
