@@ -18,7 +18,7 @@ public class Main {
 			};
 		*/
 		//bu kodlama sistemi önerilmez 
-		//bunun yerine objelerle bu projeyi yapacaðýz
+		//bunun yerine objelerle bu projeyi yapacagiz
 		
 		Product product1 =new Product(1,"Lenovo V14",15000,"16GB Ram");//örnek olusturma , referans olusturma , instance
 		
@@ -54,20 +54,6 @@ public class Main {
 		productManager.addToCart(product2);
 
 		productManager.addToCart(product3);
-
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	}
 
 }
