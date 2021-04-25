@@ -1,0 +1,5 @@
+Ödev 1
+Kodlama.io sitesine gidiniz.
+Özellik nesnesi olarak tanýmladýðýmýzý düþündüðünüz iki örnek veriniz.
+Bunlara ait class, contructor yapýlarýný oluþturup diziye ekleyip listeleyiniz.
+Ýþ sýnýfý olarak tanýmladýðýmýzý düþündüðünüz bir class oluþturunuz. En az iki metot yazýnýz.
