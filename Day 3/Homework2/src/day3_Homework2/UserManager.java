@@ -3,13 +3,13 @@
 package day3_Homework2;
 
 public class UserManager {
-	public void addUser(User user) { 
+	public void add(User user) { 
 		System.out.println(user.getId() + " id ye ait " + user.getFirstName()  + " isimli kisi eklendi");
 	}
 	
-	public void addMultiple(User[] users) {
+	public void add(User[] users) {
 		for(User user : users) {
-			addUser(user);
+			add(user);
 		}	
 	}
 	

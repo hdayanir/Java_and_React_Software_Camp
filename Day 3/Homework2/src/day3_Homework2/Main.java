@@ -36,13 +36,13 @@ public class Main {
 		
 		System.out.println("Burasi User Ekleme");
 		UserManager usermanager = new UserManager();
-		usermanager.addMultiple(users);
+		usermanager.add(users);
 		
 		System.out.println("-------------------------");
 		
 		System.out.println("Burasi Student Ekleme, Silme, Guncelleme");
 		StudentManager studentManager = new StudentManager();
-		studentManager.addStudent(students);// burasi StudentManager icerisinde ki method
+		studentManager.add(students);// burasi StudentManager icerisinde ki method
 		studentManager.delete(students);// burasi Usermanager class'i içinde ki method, StudentManager
 										// UserManager'i extend ettigi icin bu methodu kullanabildik
 		studentManager.update(students);// ayni sekilde burasida oyle
@@ -52,9 +52,9 @@ public class Main {
 		
 		System.out.println("Burasi Instructor Ekleme, Silme, Guncelleme");
 		InstructorManager instructorManager = new InstructorManager();
-		instructorManager.addInstructor(instructors); // burasi InstructorManager icerisinde ki method
-		studentManager.delete(instructors); // burasi Usermanager class'ý içinde ki method, InstructorManager
+		instructorManager.add(instructors); // burasi InstructorManager icerisinde ki method
+		instructorManager.delete(instructors); // burasi Usermanager class'i içinde ki method, InstructorManager
 											// UserManager'i extend ettigi icin bu methodu kullanabildik
-		studentManager.update(instructors); // ayni sekilde burasida oyle
+		instructorManager.update(instructors); // ayni sekilde burasida oyle
 	}
 }
