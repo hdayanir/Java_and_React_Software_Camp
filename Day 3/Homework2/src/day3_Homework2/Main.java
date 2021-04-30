@@ -11,7 +11,7 @@ public class Main {
 		students.setNationalIdentity("10000000000");
 		students.setFirstName("Huseyin");
 		students.setLastName("DAYANIR");
-		students.setEmail("hsyndayanirgmail.com");
+		students.setEmail("hsyndayanir@gmail.com");
 		students.setAddress("KARATAY / KONYA");
 		students.setContact("533686XXXX");
 		students.setBirthDate("02.09.1996");
