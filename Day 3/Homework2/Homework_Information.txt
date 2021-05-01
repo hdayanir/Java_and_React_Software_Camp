@@ -1,0 +1,6 @@
+Ödev 2
+Kodlama.io projesini yazdýðýnýzý düþünelim.
+User, Instructor, Student nesnelerini modelleyiniz. (Class-Inheritance)
+UserManager, InstructorManager, StudentManager için sistemde olabilecek operasyonlarý tahminleyip modelleyiniz. (Class-Inheritance-Method)
+Kural -- Sadece gördüðümüz konulardan yararlanmalýsýnýz.
+Github adresinizi paylaþýnýz.
