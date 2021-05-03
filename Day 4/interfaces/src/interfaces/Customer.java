@@ -12,7 +12,7 @@ public class Customer {
 	}
 
 	public Customer(int id, String firstName, String lastName) {
-		//super();   	//	onu inherit eden sýnýf varsa o sinifin 
+		//super();   	//	onu inherit eden sinif varsa o sinifin 
 						//	parametresiz constructorunda da calistir demek 
 		this.id = id;
 		this.firstName = firstName;
