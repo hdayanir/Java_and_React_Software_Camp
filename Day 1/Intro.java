@@ -1,6 +1,6 @@
 // github.com/hdayanir
 
-package deneme;
+package deneme; 
 
 public class ornek {
 
