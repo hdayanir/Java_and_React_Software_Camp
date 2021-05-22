@@ -2,7 +2,7 @@
 
 package deneme;  
 
-public class ornek { 
+public class ornek {  
 
 	public static void main(String[] args) {  
 		int i=1;
